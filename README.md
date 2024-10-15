@@ -1,5 +1,3 @@
-## 김재현입니다~
-
 ## Skills
 <div align="center">
     <div>            
