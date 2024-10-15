@@ -31,20 +31,25 @@
 
 <div align="center">
     <h3> stats </h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=jhkim31&show_icons=true&theme=radical">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhkim31">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=jhkim31&show_icons=true&theme=radical">
+    </div>
+    <div>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhkim31">
+    </div>
 </div>
 
 <div align="center">
     <h3> articles </h3>    
-    <p>
-        <a>https://velog.io/@jhkim31/검색-성능-최적화-SQL-최적화</a>
-    </p>
-    <p>
-        <a>https://velog.io/@jhkim31/TCP-HTTP-keep-alive-차이</a>    
-    </p>
+    <div>
+        <a href="https://velog.io/@jhkim31/검색-성능-최적화-SQL-최적화"> 검색 성능 최적화 - SQL 최적화 </a>
+    </div>
+    <div>
+        <a href="https://velog.io/@jhkim31/TCP-HTTP-keep-alive-차이">TCP HTTP Keep Alive 차이</a>    
+    </div>
 </div>
 
+<br>
 <div align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhkim31&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 </div>
