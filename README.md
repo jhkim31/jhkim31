@@ -3,28 +3,28 @@
         skills
     </h3>
     <div>            
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white"> 
-        <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logoColor=white"> 
-        <img src="https://img.shields.io/badge/jpa-AF9E6B?style=flat-square&logoColor=white"> 
-      <img src="https://img.shields.io/badge/query dsl-007AC2?style=flat-square&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white"> 
+        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logoColor=white"> 
+        <img src="https://img.shields.io/badge/jpa-AF9E6B?style=for-the-badge&logoColor=white"> 
+      <img src="https://img.shields.io/badge/query dsl-007AC2?style=for-the-badge&logoColor=white"> 
     </div>    
     <div>            
-        <img src="https://img.shields.io/badge/typescript-296AB9?style=flat-square&logoColor=white"> 
-        <img src="https://img.shields.io/badge/expressjs-E7B610?style=flat-square&logoColor=white">         
+        <img src="https://img.shields.io/badge/typescript-296AB9?style=for-the-badge&logoColor=white"> 
+        <img src="https://img.shields.io/badge/expressjs-E7B610?style=for-the-badge&logoColor=white">         
     </div>  
     <div>
-        <img src="https://img.shields.io/badge/mysql-005977?style=flat-square&logoColor=white"> 
-        <img src="https://img.shields.io/badge/redis-CC2822?style=flat-square&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-005977?style=for-the-badge&logoColor=white"> 
+        <img src="https://img.shields.io/badge/redis-CC2822?style=for-the-badge&logoColor=white"> 
     </div>        
     <div>
-        <img src="https://img.shields.io/badge/linux-000?style=flat-square&logoColor=white"> 
-        <img src="https://img.shields.io/badge/docker-005DB2?style=flat-square&logoColor=white"> 
-        <img src="https://img.shields.io/badge/aws-EF891A?style=flat-square&logoColor=white"> 
+        <img src="https://img.shields.io/badge/linux-000?style=for-the-badge&logoColor=white"> 
+        <img src="https://img.shields.io/badge/docker-005DB2?style=for-the-badge&logoColor=white"> 
+        <img src="https://img.shields.io/badge/aws-EF891A?style=for-the-badge&logoColor=white"> 
     </div>    
     <div>
-        <img src="https://img.shields.io/badge/prometheus-CE422A?style=flat-square&logoColor=white"> 
-        <img src="https://img.shields.io/badge/grafana-F2AD10?style=flat-square&logoColor=white"> 
-        <img src="https://img.shields.io/badge/nGrinder-5CD946?style=flat-square&logoColor=white"> 
+        <img src="https://img.shields.io/badge/prometheus-CE422A?style=for-the-badge&logoColor=white"> 
+        <img src="https://img.shields.io/badge/grafana-F2AD10?style=for-the-badge&logoColor=white"> 
+        <img src="https://img.shields.io/badge/nGrinder-5CD946?style=for-the-badge&logoColor=white"> 
     </div>
 </div>
 <br>
