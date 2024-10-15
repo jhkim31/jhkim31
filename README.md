@@ -33,8 +33,6 @@
     <h3> stats </h3>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=jhkim31&show_icons=true&theme=radical">
-    </div>
-    <div>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhkim31">
     </div>
 </div>
