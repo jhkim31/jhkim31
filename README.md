@@ -40,7 +40,10 @@
 <div align="center">
     <h3> articles </h3>    
     <div>
-        <a href="https://velog.io/@jhkim31/검색-성능-최적화-SQL-최적화"> 검색 성능 최적화 - SQL 최적화 </a>
+        <a href="https://velog.io/@jhkim31/검색-성능-최적화-SQL-최적화"> 검색 성능 최적화 </a>
+    </div>
+    <div>
+        <a href="https://velog.io/@jhkim31/MySQL의-GenerationType.AUTO-는-추가-커넥션을-필요로-한다">GenerationType.TABLE 은 추가 커넥션이 필요하다.</a>
     </div>
     <div>
         <a href="https://velog.io/@jhkim31/TCP-HTTP-keep-alive-차이">TCP HTTP Keep Alive 차이</a>    
